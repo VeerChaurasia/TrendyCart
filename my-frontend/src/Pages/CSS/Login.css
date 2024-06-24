@@ -40,6 +40,11 @@
     font-size: 25px;
     font-weight: 600;
     cursor: pointer;
+
+}
+.loginsignup-container button:hover{
+    background: #ff4141;
+    opacity: 0.8;
 }
 .loginsignup-login{
     margin-top: 20px;
@@ -50,6 +55,7 @@
 .loginsignup-login span{
     color: #ff4141;
     font-weight: 600;
+    cursor: pointer;
 }
 .loginsignup-agree{
     display: flex;
