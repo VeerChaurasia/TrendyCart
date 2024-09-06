@@ -1,1 +1,1 @@
-A e-commerce made from scratch
+A e-commerce made from scratch with MERN STACK
