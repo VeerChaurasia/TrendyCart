@@ -1,1 +1,2 @@
-A e-commerce made from scratch with MERN STACK
+A e-commerce platform made from scratch with MERN STACK
+
